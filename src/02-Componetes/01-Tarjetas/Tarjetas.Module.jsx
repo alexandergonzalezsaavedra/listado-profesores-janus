@@ -59,7 +59,7 @@ const TarjetasModule = () => {
                                                 <span><a href={`mailto:${correo}`}>{correo}</a></span>
                                             </p>
                                             <div className="mas-ficha position-absolute bottom-0 text-ligh">
-                                                <a href={`https://urosario.edu.co/prueba-interna-janus?${ruta}`}>+</a>
+                                                <a href={`https://urosario.edu.co/janus/nuestros-integrantes/profesor?${ruta}`}>+</a>
                                             </div>
                                         </div>
                                     </div>

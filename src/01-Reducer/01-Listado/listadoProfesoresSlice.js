@@ -1,9 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit'
-
 const initialState = {
     informacion: []
 }
-
 export const listadoSlice = createSlice({
     name: 'listado',
     initialState: initialState,
